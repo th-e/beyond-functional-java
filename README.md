@@ -1,5 +1,5 @@
 # beyond-functional-java
-My programming functional workshop from a java perspective
+A functional programming workshop for Java programmers. First time used for a workshop in March 2020 in Switzerland
 
 ## ATTENTION
-This is workshop material. The source code may not be good coding practice, it may even not compile. There are intentionally errors in the code.
+This is workshop material! The source code may not follow good coding rules, it may even not compile and there may be intentionally errors in the code.
